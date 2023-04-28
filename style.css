@@ -1,0 +1,32 @@
+.div_1{
+    margin:0px;
+    width:100%;
+    box-shadow: 8px 8px 8px 8px rgb(71, 137, 101);
+}
+#heading{
+    font-size: 35px;
+    text-shadow: 5px 3px 2px black;
+}
+#note{
+    font-size: 16px;
+    color:black;
+   
+}
+canvas{
+    margin: 60px;
+    padding: 0px;
+    border:3px ;
+    box-shadow: 4px 4px 4px 4px black;
+}
+#footer{
+    margin-bottom: 0px;
+    width: 100%;
+    padding-top:5px;
+    float: fixed;
+    margin-top: 610px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+    color: black;
+    font-style: italic;
+    text-shadow: 3px 3px 3px grey;
+}
